@@ -1,1 +1,2 @@
-# ramya
+install git
+install python
